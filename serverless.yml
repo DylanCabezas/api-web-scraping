@@ -1,5 +1,5 @@
 org: dylancabezas
-service: api-web-scrapping
+service: api-web-scraping
 
 provider:
   name: aws
