@@ -17,6 +17,7 @@ functions:
           path: /scrape/table
           method: get
           cors: true
+          integration: lambda
 
 resources:
   Resources:
